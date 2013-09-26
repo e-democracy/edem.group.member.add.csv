@@ -1,0 +1,33 @@
+==============================
+``edem.group.member.add.csv``
+==============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+E-Democracy customization of the add members by CSV code in 'GroupServer'_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:Author: `Bill Bushey`_
+:Contact: Bill Bushey <bill.bushey@e-democracy.org>
+:Date: 2013-09-26
+:Organization: `E-Democracy.org`_
+:Copyright: This document is licensed under a
+  `Creative Commons Attribution-Share Alike 3.0`_
+  by `E-Democracy.org`_.
+
+Introduction
+===========
+
+This egg customizes the browser view and processing associated with adding
+members to a group via CSV. 
+
+Resources
+=========
+
+- Code repository: https://github.com/e-democracy/edem.group.member.add.csv
+- Questions and comments to http://groupserver.org/groups/development
+- Report bugs at https://redmine.iopen.net/projects/groupserver
+
+.. _GroupServer: http://groupserver.org/
+.. _E-Democracy.org: http://e-democracy.org/
+.. _Bill Bushey: http://groupserver.org/p/wbushey
+.. _Creative Commons Attribution-Share Alike 3.0 License:
+   http://creativecommons.org/licenses/by-sa/3.0/
