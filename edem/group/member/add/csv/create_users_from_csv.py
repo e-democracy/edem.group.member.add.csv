@@ -1,6 +1,7 @@
 # coding=utf-8
-from gs.group.member.invite.csv.create_users_from_csv import CreateUsersInviteForm, CreateUsersAddForm, CreateUsersAddSiteForm
-from gs.skin.ogn.edem.utils import fn_to_nickname
+from gs.group.member.invite.csv.create_users_from_csv import CreateUsersInviteForm, CreateUsersAddForm
+from gs.group.member.invite.csv.site import CreateUsersAddSiteForm
+from utils import fn_to_nickname
 import logging
 log = logging.getLogger('EDemCreateUsersForm')
 
