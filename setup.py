@@ -36,6 +36,7 @@ setup(name='edem.group.member.add.csv',
         'setuptools',
         'gs.skin.ogn.edem',
         'gs.group.member.add',
+        'edem.group.member.invite.csv'
         # -*- Extra requirements: -*-
     ],
     entry_points="""

@@ -6,6 +6,7 @@ setup.py
 version.py
 docs/HISTORY.txt
 edem/__init__.py
+edem/__init__.pyc
 edem.group.member.add.csv.egg-info/PKG-INFO
 edem.group.member.add.csv.egg-info/SOURCES.txt
 edem.group.member.add.csv.egg-info/dependency_links.txt
@@ -15,10 +16,15 @@ edem.group.member.add.csv.egg-info/requires.txt
 edem.group.member.add.csv.egg-info/top_level.txt
 edem.group.member.add.csv.egg-info/zip-safe
 edem/group/__init__.py
+edem/group/__init__.pyc
 edem/group/member/__init__.py
+edem/group/member/__init__.pyc
 edem/group/member/add/__init__.py
+edem/group/member/add/__init__.pyc
 edem/group/member/add/csv/__init__.py
+edem/group/member/add/csv/__init__.pyc
 edem/group/member/add/csv/configure.zcml
-edem/group/member/add/csv/configure.zcml~
 edem/group/member/add/csv/create_users_from_csv.py
+edem/group/member/add/csv/create_users_from_csv.pyc
 edem/group/member/add/csv/browser/templates/admin_create_users_from_csv.pt
+edem/group/member/add/csv/browser/templates/admin_create_users_from_csv_site.pt
