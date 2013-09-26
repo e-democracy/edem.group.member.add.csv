@@ -11,5 +11,13 @@
     layer="gs.skin.ogn.edem.interfaces.IEDemLayer" 
     permission="zope2.ManageUsers"/>
 
+  <browser:page 
+    for="Products.GSContent.interfaces.IGSSiteFolder" 
+    name="admin_join_add_csv.html" 
+    class=".create_users_from_csv.EDemUsersAddSiteForm" 
+    template="browser/templates/admin_create_users_from_csv_site.pt" 
+    layer="gs.skin.ogn.edem.interfaces.IEDemLayer" 
+    permission="zope2.ManageUsers" />
+
 </configure>
 
