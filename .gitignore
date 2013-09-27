@@ -1,8 +1,7 @@
-syntax: glob
-*pyc
+*.pyc
 *~
-*egg-info
+*.egg-info
 dist
-*orig
-*nja
+*.orig
+*.nja
 *.swp

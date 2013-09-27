@@ -1,7 +1,7 @@
 # coding=utf-8
 from gs.group.member.invite.csv.create_users_from_csv import \
     CreateUsersInviteForm, CreateUsersAddSiteForm
-from edem.profile.signup.base import fn_to_nickname
+from edem.profile.signup.base.utils import fn_to_nickname
 from edem.group.member.invite.csv.create_users_from_csv import \
     EDemCreateUsersForm
 import logging

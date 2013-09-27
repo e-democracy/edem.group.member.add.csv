@@ -1,3 +1,4 @@
 setuptools
 gs.skin.ogn.edem
 gs.group.member.add
+edem.group.member.invite.csv
