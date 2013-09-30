@@ -21,6 +21,7 @@ edem/group/member/__init__.py
 edem/group/member/__init__.pyc
 edem/group/member/add/__init__.py
 edem/group/member/add/__init__.pyc
+edem/group/member/add/csv/.create_users_from_csv.py.swp
 edem/group/member/add/csv/__init__.py
 edem/group/member/add/csv/__init__.pyc
 edem/group/member/add/csv/configure.zcml
